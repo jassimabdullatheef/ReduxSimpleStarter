@@ -1,6 +1,5 @@
-# ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Library management application for small or company/school internal libraries
 
 ### Getting Started
 
